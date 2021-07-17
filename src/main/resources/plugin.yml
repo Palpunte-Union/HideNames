@@ -1,0 +1,7 @@
+name: HideNames
+version: ${project.version}
+main: com.github.eighty88.hidenames.HideNames
+api-version: 1.15
+authors: [ eight_y_88 ]
+description: 名前を隠せる
+website: https://github.com/Palpunte-Union
